@@ -1,0 +1,27 @@
+Getting Webpages Live on Web
+DNS (Domain Name System)
+Hosting, domain name
+FTP (File Transfer Protocol)
+
+Comments
+Can't be seen by user, make code more clear
+<!-- -->
+CSS /* */
+
+CSS Syntax and Inheritance
+Property: Value
+Inline > Embedded > External (only use this if possible)
+Inheritance, children, parent ---
+
+Fonts
+Web saved fonts recognized in any browser
+Import or download fonts (@import, @font-face)
+CSS Fonts font-family
+If font name has space in it, it needs quotes around it 
+
+Colors
+Hex Codes #000000 (6 digits codes that represents amount of red(1st 2), green(2nd 2), and blue(last 2))
+RGB Codes rgb(1,1,1), rgba(1,1,1,1) opacity
+Contrast, accent colors
+
+

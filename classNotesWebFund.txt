@@ -1,0 +1,8 @@
+TIPS
+shortcut (type tag and then tab)
+meta - info about info
+<ul> bullet points, <ol> numbers and <li> (all have closing tags)
+highlight alt up move lines
+ctrl / comment shortcut
+
+link:css ENTER
