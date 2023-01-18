@@ -1,0 +1,15 @@
+Classes and Id Attributes
+. class
+# id 
+
+HTML Basics
+save file names in lowercase
+index - home page
+! tab (shortcut, HTML template?)
+
+Wireframes 
+plan pages before creating them
+present to client
+
+
+learn more shortcuts for effeciency! 
