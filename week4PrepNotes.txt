@@ -1,0 +1,20 @@
+Units of Measurement
+width: px
+margin: em
+font size: %
+
+absolute or relative (scale better)
+
+Block vs. Inline Elements
+
+Block elements take up 100% of the space, doesn't share line with other 
+elements, far left or far right
+
+Inline Elements allow other elements to share the same line
+
+CSS Selectors
+Specificity: a score or rank that will determine which style declaration will be
+applied 
+
+Pseudo-classes allow you to change the appearance of elements when a user
+is interacting with them 
