@@ -1,0 +1,10 @@
+Week 5
+Box Model
+each box has width and height
+padding - white space, up to 4 values, inner space surrounding the element
+borders - border in the middle of p and m, color, width, dashed, dotted, radius
+margins - white space, the outside space of the element itself,
+
+Browser Developer Tools
+right-click, inspect 
+any changes aren't permanent in inspect 
