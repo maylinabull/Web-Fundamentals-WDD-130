@@ -8,3 +8,53 @@ margins - white space, the outside space of the element itself,
 Browser Developer Tools
 right-click, inspect 
 any changes aren't permanent in inspect 
+
+Week 6
+CSS Layout
+normal flow - each element is displayed one after another based on how
+we placed them in the HTML
+HOW DO WE TAKE BLOCKS OUT OF NORMAL FLOW?
+float
+position property (relative, absolute)
+Flex-box - if you want items in a row or column
+Grid (z-index)
+
+Grid Layout
+Grid: a layout system that uses rows and columns
+explicit and implicit 
+implicit - when browser automatically places grid items in the order 
+they were in the spaces available automatically
+explicit - deliberate 
+you can nest grids inside of other grids
+
+Grid Layout pt.2
+grid-column-start
+grid-column-end
+
+
+ACTUALLY WATCH THE VIDEOS LATER FOR EXAMPLES!!!
+
+
+Week 7
+justify-content: aligns the grid container alont the inline axis (default horizontal)
+only works when grid is narrower thatn the space available
+
+justify-items: aligns the grid item contents along the inline axis (default horizontal)
+only works when the contents of a grid cel are narrower than the grid cell
+
+align-content: aligns the grid container along the block axis (default vertical)
+only works when te grid is shorter than the space available
+
+align-items: aligns the grid item contents along the block axis (default vertical)
+only works when the contents of a grid cell are shorter than the grid cell
+
+justify aligns horizontal, align vertical
+if we want to align the grid container we use content
+if we want to align the contents of the grid items within the grid cells, use items
+
+
+ 
+
+
+
+

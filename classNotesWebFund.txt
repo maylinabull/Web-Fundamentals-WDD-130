@@ -41,3 +41,8 @@ Edit audience section of site plan and color schemes to match - choose your audi
 Think about final project you will work on ...
 
 
+2/6/23
+Know how to do grid well -- anything on column layout
+CSS animations (advanced class, take as an elective?)
+inspect more websites and see what they do ... 
+css garden
