@@ -52,8 +52,54 @@ justify aligns horizontal, align vertical
 if we want to align the grid container we use content
 if we want to align the contents of the grid items within the grid cells, use items
 
+WIREFRAMES
+flickr.com (search wireframes)
+low fidelity - may be drawn out, less detail and messier
+gomockingbird.com
 
- 
+LAYOUT AND COMPOSITION
+Proximity
+related items are grouped together
+
+White Space
+define and separate sections
+
+Alignment 
+consistent
+
+Contrast
+catch readers eye, emphasis, important elements
+hierarchy - what do you want the reader to notice first?
+
+Repetition
+consistent look and feel 
+easier to read, viewers can focus on content
+
+
+
+The page must include at least one image, in addition to a logo, enough text for the page to make 
+sense and be able to stand on its own, and enough of the style elements from the home page that you can
+tell you are still on the same site (header, footer, navigation, font, colors, and so on).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
