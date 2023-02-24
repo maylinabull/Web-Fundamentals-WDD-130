@@ -77,13 +77,16 @@ easier to read, viewers can focus on content
 
 
 
-The page must include at least one image, in addition to a logo, enough text for the page to make 
-sense and be able to stand on its own, and enough of the style elements from the home page that you can
+The page must include at least one image, in addition to a logo, 
+enough text for the page to make sense and be able to stand on its own, 
+and enough of the style elements from the home page that you can
 tell you are still on the same site (header, footer, navigation, font, colors, and so on).
 
 
 
-
+opt images 
+type out more content
+turn in!!
 
 
 
