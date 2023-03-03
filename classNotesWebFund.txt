@@ -46,3 +46,15 @@ Know how to do grid well -- anything on column layout
 CSS animations (advanced class, take as an elective?)
 inspect more websites and see what they do ... 
 css garden
+
+2/27/23
+fix wwr site
+smaller text at the bottom
+experiment with bolding and color in join box to make important text stand out 
+
+
+
+
+
+
+
