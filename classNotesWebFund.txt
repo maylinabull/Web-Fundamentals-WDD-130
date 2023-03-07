@@ -52,6 +52,31 @@ fix wwr site
 smaller text at the bottom
 experiment with bolding and color in join box to make important text stand out 
 
+3/6/23
+add more to personal website (links, make pretty lol), incorporate forms/javascript?
+search for personal project ideas
+see what things are possible on we3schools
+php and C#, edX courses?
+
+<form>
+<input> - different types 
+<label>
+
+radio buttons - can only select 1 vs checkboxes - can select multiple
+DOM - document object model
+. calls function
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
