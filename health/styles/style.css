@@ -4,13 +4,14 @@ header {
     background-color: #192D5C;
     font-family: 'Secular One';
     display: grid;
-    grid-template-columns: 800px auto auto auto auto auto;
+    grid-template-columns: 750px auto auto;
 }
 nav a {
     color: #E7C24F;
     text-align: center;
     text-decoration: none;
     padding: 60px;
+    padding-left: 50px;
 }
 nav a:hover {
     background-color: #E7C24F;
