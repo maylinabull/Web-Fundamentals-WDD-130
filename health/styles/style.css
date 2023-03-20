@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Secular+One|Lato');
+
+header {
+    background-color: #192D5C;
+    font-family: 'Secular One';
+    display: grid;
+    grid-template-columns: 800px auto;
+}
+nav a {
+    color: #E7C24F;
+    text-align: center;
+    text-decoration: none;
+    padding: 60px;
+}
+nav a:hover {
+    background-color: #E7C24F;
+    color:#192D5C;
+
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+.logo {
+    border-radius: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    height: 125px;
+}
+#home-img1, #home-img2 {
+    height: 400px;
+    width: 100%;
+}
+#home-grid {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.home {
+    margin: 100px;
+}
+p {
+    font-family: 'Lato';
+}
+h1, h2, h3, h4 {
+    font-family: 'Secular One';
+    color: #192D5C;
+}
+footer {
+    background-color: #192D5C;
+    font-family: 'Secular One';
+    color: #E7C24F;
+    padding: 25px 50px;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
