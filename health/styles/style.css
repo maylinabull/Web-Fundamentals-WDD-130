@@ -4,7 +4,7 @@ header {
     background-color: #192D5C;
     font-family: 'Secular One';
     display: grid;
-    grid-template-columns: 800px auto auto;
+    grid-template-columns: 800px auto auto auto;
 }
 nav a {
     color: #E7C24F;
