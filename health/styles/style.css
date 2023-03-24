@@ -31,7 +31,7 @@ nav {
 }
 #home-img1, #home-img2 {
     height: 400px;
-    width: 100%;
+    width: 795px;
 }
 #home-grid {
     display: grid;
@@ -54,8 +54,7 @@ nav {
     grid-template-columns: repeat(2, 1fr);
 }
 #recipe-list li, h4 {
-    padding-left: 250px;
-
+    padding-left: 50px;
 }
 #pasta-img, #meal1-img, #meal2-img {
     height: 250px;
