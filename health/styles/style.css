@@ -31,7 +31,7 @@ nav {
 }
 #home-img1, #home-img2 {
     height: 400px;
-    width: 795px;
+    width: 100%;
 }
 #home-grid {
     display: grid;
@@ -39,7 +39,7 @@ nav {
 }
 #toast-img, #meal3-img, #veggie-img {
     height: 400px;
-    width: 530px;
+    width: 100%;
 }
 #top-recipes-grid {
     display: grid;
