@@ -1,0 +1,10 @@
+FIX YOUR WEBSITE
+make more user friendly?  
+
+put text on home images? make sure to make readable (white text box) ...
+get rid of flip image lines ... 
+
+grid - restraunt name and then food items, put line in between
+(just fix so it isn't basic bullet points -- it looks ... wrong) 
+
+underline animation on recipe page --- just delete if you can't figure it out
