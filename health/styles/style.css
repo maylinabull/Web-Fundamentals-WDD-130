@@ -9,29 +9,6 @@
     color:#A8D5E2;
     font-family: 'Lato';
 }
-.recipes-grid li {
-    display: block;
-    position: relative;
-    color: #E7C24F;
-  }
-  
-  .recipes-grid li::after {
-    content: '';
-    position: absolute;
-    width: 100%;
-    transform: scaleX(0);
-    height: 2px;
-    bottom: 0;
-    left: 0;
-    background-color: #E7C24F;
-    transform-origin: bottom right;
-    transition: transform 0.25s ease-out;
-  }
-  
-  .recipes-grid li:hover::after {
-    transform: scaleX(1);
-    transform-origin: bottom left;
-  }
 header {
     background-color: #192D5C;
     font-family: 'Secular One';
@@ -160,7 +137,7 @@ h1, h2, h3, h4 {
     font-family: 'Secular One';
     color: #192D5C;
 }
-.home h1, #recipe-head h1, #places-head h1 {
+.home h1, #recipe-head h1, #places-head h1{
     text-shadow: 2px 2px #E7C24F;
     margin-top: 50px;
 }
